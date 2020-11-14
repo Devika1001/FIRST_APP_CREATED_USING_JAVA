@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * this represents guesser game 
  * repeats for number of chances
- * @author devika
+ * @author Saugandhika
  * @version 15.0
  * @since 29-10-2020
  */
@@ -40,7 +40,7 @@ public final static int CHANCE=2;
  *represents guesser
  *  collect number from guesser
  *  
- *  @author Devika
+ *  @author Saugandhika
  *  @version 15.0
  *  @since   29-10-2020
  */
@@ -79,7 +79,7 @@ class GuesserD
  * represents the player
  * collect numbers from players
 *  
-*  @author Devika
+*  @author Saugandhika
 *  @version 15.0
 *  @since   29-10-2020
 *  */
@@ -116,7 +116,7 @@ class PlayerD
 /**
  * represents umpireD
  * 
- * @author Devika
+ * @author Saugandhika
  * @version 15.0
  * @since 29-10-2020
  *
